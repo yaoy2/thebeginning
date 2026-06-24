@@ -1,14 +1,26 @@
 {
   "deepseek": {
-    "account": "7770"
+    "active_account": "7770",
+    "accounts": {
+      "7770": {}
+    }
   },
   "kimi": {
-    "account": "7770"
+    "active_account": "7770",
+    "accounts": {
+      "7770": {}
+    }
   },
   "chatgpt": {
-    "account": "yaoy20315470@gmail.com"
+    "active_account": "yaoy20315470@gmail.com",
+    "accounts": {
+      "yaoy20315470@gmail.com": {}
+    }
   },
   "gemini": {
-    "account": "yaoy20315470@gmail.com"
+    "active_account": "yaoy20315470@gmail.com",
+    "accounts": {
+      "yaoy20315470@gmail.com": {}
+    }
   }
 }

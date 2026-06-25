@@ -18,9 +18,10 @@
     }
   },
   "gemini": {
-    "active_account": "yaoy20315470@gmail.com",
+    "active_account": "y20315470@gmail.c",
     "accounts": {
-      "yaoy20315470@gmail.com": {}
+      "yaoy20315470@gmail.com": {},
+      "y20315470@gmail.c": {}
     }
   }
 }
